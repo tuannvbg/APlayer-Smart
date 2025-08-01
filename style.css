@@ -1,0 +1,23 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #f4f4f4;
+  padding: 2em;
+}
+#sticky-header {
+  position: sticky;
+  top: 0;
+  background: #fff;
+  padding: 1em;
+  border-bottom: 1px solid #ccc;
+}
+.leader-card {
+  background: #fff;
+  padding: 1em;
+  margin: 1em 0;
+  border-radius: 8px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+.leader-card img {
+  width: 100px;
+  border-radius: 50%;
+}
